@@ -16,7 +16,9 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
 
-    <Header weekNumber="One" />
+    <header className="text-white text-center pt-3 md:pt-5">
+      <h1 className="text-3xl sm:text-4xl">Touch Tips 2021 - Week One</h1>
+    </header>
 
     <Awards>
       <TeamOfTheWeekAward
