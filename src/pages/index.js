@@ -1,6 +1,7 @@
 import * as React from "react";
 
 import Layout from "../components/layout";
+import Header from "../components/Header";
 import Seo from "../components/seo";
 import ScoreSheet from "../components/ScoreSheet";
 import ScoreCard from "../components/ScoreCard";
@@ -10,7 +11,6 @@ import {
   EfficientlyEfficientAward,
   TeamOfTheWeekAward,
 } from "../components/Awards/";
-import Header from "../components/Header";
 
 const IndexPage = () => (
   <Layout>
