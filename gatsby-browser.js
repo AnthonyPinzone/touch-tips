@@ -1,7 +1,7 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.com/docs/browser-apis/
- */
-
-// You can delete this file if you're not using it
+import "@fontsource/teko/300.css";
+import "@fontsource/teko/400.css";
+import "@fontsource/teko/500.css";
+import "@fontsource/teko/600.css";
+import "@fontsource/teko/700.css";
+import "@fontsource/urbanist";
+import "./src/styles/global.css";

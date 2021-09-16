@@ -1,42 +1,22 @@
-import * as React from "react"
-import PropTypes from "prop-types"
-import { Link } from "gatsby"
+import * as React from "react";
+import PropTypes from "prop-types";
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
+const Header = ({ weekNumber }) => (
+  <header className="text-white text-center pt-3 md:pt-5">
+    <h1 className="text-3xl sm:text-4xl">
+      Touch Tips 2021 - Week {weekNumber}
+    </h1>
   </header>
-)
+);
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-}
+  weekNumber: PropTypes.string,
+};
 
 Header.defaultProps = {
   siteTitle: ``,
-}
+  weekNumber: "",
+};
 
-export default Header
+export default Header;
