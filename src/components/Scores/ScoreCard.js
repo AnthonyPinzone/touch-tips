@@ -1,6 +1,6 @@
 import React from "react";
 import { BsChevronCompactDown, BsChevronCompactUp } from "react-icons/bs";
-import { calculatePercentage } from "../utilities/math-calculations";
+import { calculatePercentage } from "../../utilities/math-calculations";
 
 const Image = ({ src, alt }) => (
   <figure className="aspect-w-16 aspect-h-9">

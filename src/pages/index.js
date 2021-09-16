@@ -1,9 +1,8 @@
 import * as React from "react";
 
-import Layout from "../components/layout";
-import Seo from "../components/seo";
-import ScoreSheet from "../components/ScoreSheet";
-import ScoreCard from "../components/ScoreCard";
+import { Layout } from "../components/Layout/";
+import { Seo } from "../components/Seo/";
+import { ScoreSheet, ScoreCard } from "../components/Scores/";
 import {
   Awards,
   YouBlewItAward,
@@ -12,12 +11,8 @@ import {
 } from "../components/Awards/";
 
 const IndexPage = () => (
-  <Layout>
-    <Seo title="Home" />
-
-    <header className="text-white text-center pt-3 md:pt-5">
-      <h1 className="text-3xl sm:text-4xl">Touch Tips 2021 - Week One</h1>
-    </header>
+  <Layout weekNumber="One">
+    <Seo title="Week One" />
 
     <Awards>
       <TeamOfTheWeekAward

@@ -1,17 +1,14 @@
 import * as React from "react";
-import PropTypes from "prop-types";
 import Main from "./Main";
+import Header from "./Header";
 
-const Layout = ({ children }) => {
+const Layout = ({ children, weekNumber }) => {
   return (
     <>
+      <Header weekNumber={weekNumber} />
       <Main>{children}</Main>
     </>
   );
-};
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
 };
 
 export default Layout;

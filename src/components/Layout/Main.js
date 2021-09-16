@@ -5,7 +5,7 @@ const BackgroundImage = () => (
   <div className="absolute w-full h-full z-0 bg-gray-900">
     <StaticImage
       className="absolute w-full h-full object-cover object-center opacity-25"
-      src="../images/football-on-field.jpg"
+      src="../../images/football-on-field.jpg"
       alt="A football on a field"
     />
   </div>
