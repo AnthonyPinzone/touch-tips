@@ -1,0 +1,148 @@
+{
+  "teams": [
+    {
+      "id": "commish",
+      "seasons": {
+        "2021": {
+          "name": "Najee by Nature",
+          "record": "0-1-0",
+          "rank": "9",
+          "scores": ["114.60"],
+          "optimals": ["137.13"]
+        }
+      }
+    },
+    {
+      "id": "ron",
+      "seasons": {
+        "2021": {
+          "name": "Smashers",
+          "record": "1-0-0",
+          "rank": "5",
+          "scores": ["120.28"],
+          "optimals": ["140.38"]
+        }
+      }
+    },
+    {
+      "id": "cliff",
+      "seasons": {
+        "2021": {
+          "name": "Hasta Laviska Baby",
+          "record": "1-0-0",
+          "rank": "6",
+          "scores": ["103.70"],
+          "optimals": ["132.43"]
+        }
+      }
+    },
+    {
+      "id": "vin",
+      "seasons": {
+        "2021": {
+          "name": "All Chubbed Up",
+          "record": "0-1-0",
+          "rank": "11",
+          "scores": ["97.18"],
+          "optimals": ["133.45"]
+        }
+      }
+    },
+    {
+      "id": "jim",
+      "seasons": {
+        "2021": {
+          "name": "Ezekiel 25-17",
+          "record": "0-1-0",
+          "rank": "8",
+          "scores": ["151.05"],
+          "optimals": ["156.65"]
+        }
+      }
+    },
+    {
+      "id": "chris",
+      "seasons": {
+        "2021": {
+          "name": "Full Nelson",
+          "record": "1-0-0",
+          "rank": "2",
+          "scores": ["158.70"],
+          "optimals": ["164.80"]
+        }
+      }
+    },
+    {
+      "id": "alex",
+      "seasons": {
+        "2021": {
+          "name": "Dak and Yellow",
+          "record": "1-0-0",
+          "rank": "1",
+          "scores": ["171.95"],
+          "optimals": ["178.85"]
+        }
+      }
+    },
+    {
+      "id": "shane",
+      "seasons": {
+        "2021": {
+          "name": "Daddy Day Care",
+          "record": "0-1-0",
+          "rank": "7",
+          "scores": ["167.35"],
+          "optimals": ["167.35"]
+        }
+      }
+    },
+    {
+      "id": "luke",
+      "seasons": {
+        "2021": {
+          "name": "DoucheNukemV3",
+          "record": "0-1-0",
+          "rank": "12",
+          "scores": ["92.68"],
+          "optimals": ["102.85"]
+        }
+      }
+    },
+    {
+      "id": "aj",
+      "seasons": {
+        "2021": {
+          "name": "Gage Interest",
+          "record": "1-0-0",
+          "rank": "4",
+          "scores": ["127.50"],
+          "optimals": ["144.23"]
+        }
+      }
+    },
+    {
+      "id": "brandon",
+      "seasons": {
+        "2021": {
+          "name": "Captain Kamaraca II",
+          "record": "1-0-0",
+          "rank": "3",
+          "scores": ["139.30"],
+          "optimals": ["159.95"]
+        }
+      }
+    },
+    {
+      "id": "steve",
+      "seasons": {
+        "2021": {
+          "name": "Stevens's Superb Team",
+          "record": "0-1-0",
+          "rank": "10",
+          "scores": ["113.48"],
+          "optimals": ["113.48"]
+        }
+      }
+    }
+  ]
+}
