@@ -1,3 +1,5 @@
+const colors = require("tailwindcss/colors");
+
 module.exports = {
   mode: "jit",
   purge: ["./src/**/*.{js,jsx,ts,tsx}"],
@@ -7,6 +9,9 @@ module.exports = {
       sans: ["Teko", "Arial", "Helvetica", "sans-serif"],
     },
     extend: {
+      colors: {
+        cyan: colors.cyan,
+      },
       fontFamily: {
         "sans-alt": ["Urbanist", "Arial", "Helvetica", "sans-serif"],
       },

@@ -4,25 +4,12 @@ import { Layout } from "../../components/Layout/";
 import { Seo } from "../../components/Seo/";
 import { ScoreSheet, ScoreCard } from "../../components/Scores/";
 
+import getTeamById from "../../utilities/getTeamById";
+
 import data from "../../data/2021/week-2.json";
 
 export default function WeekTwo2021({ location }) {
-  const {
-    teams: {
-      commish,
-      ron,
-      cliff,
-      vin,
-      jim,
-      chris,
-      alex,
-      shane,
-      luke,
-      aj,
-      brandon,
-      steve,
-    },
-  } = data;
+  const { teams } = data;
   return (
     <Layout location={location} weekNumber="Two">
       <Seo title="Week Two" />
@@ -43,12 +30,30 @@ export default function WeekTwo2021({ location }) {
       </Awards> */}
 
       <ScoreSheet>
-        <ScoreCard team1={brandon} team2={aj} />
-        <ScoreCard team1={luke} team2={shane} />
-        <ScoreCard team1={alex} team2={chris} />
-        <ScoreCard team1={jim} team2={vin} />
-        <ScoreCard team1={ron} team2={steve} />
-        <ScoreCard team1={commish} team2={cliff} />
+        <ScoreCard
+          team1={getTeamById(teams, "brandon")}
+          team2={getTeamById(teams, "aj")}
+        />
+        <ScoreCard
+          team1={getTeamById(teams, "luke")}
+          team2={getTeamById(teams, "shane")}
+        />
+        <ScoreCard
+          team1={getTeamById(teams, "alex")}
+          team2={getTeamById(teams, "chris")}
+        />
+        <ScoreCard
+          team1={getTeamById(teams, "jim")}
+          team2={getTeamById(teams, "vin")}
+        />
+        <ScoreCard
+          team1={getTeamById(teams, "ron")}
+          team2={getTeamById(teams, "steve")}
+        />
+        <ScoreCard
+          team1={getTeamById(teams, "commish")}
+          team2={getTeamById(teams, "cliff")}
+        />
       </ScoreSheet>
     </Layout>
   );
