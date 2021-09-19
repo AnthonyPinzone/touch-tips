@@ -21,7 +21,7 @@
       "team2": {
         "id": "aj",
         "keys": [
-          "Derrick Henry get right game after a disappointing start",
+          "Derrick Henry bouncing back after a disappointing start",
           "Justin Jefferson explosion in a potential shootout",
           "Get something out of Edmonds or Moore in Arizona"
         ],
@@ -56,6 +56,11 @@
       },
       "team2": {
         "id": "shane",
+        "keys": [
+          "Better production from the tier-1 TE stack",
+          "Kyler vs. Minnesota is what we thought it was... a shootout",
+          "More consistency out of the receiver core, all 4 have plus match-ups"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -70,6 +75,12 @@
     {
       "team1": {
         "id": "alex",
+        "keys": [
+          "Mahomes/CMC continue to provide a high-floor baseline",
+          "Tyler Lockett vs. a Titans defense that just got roasted by Christian Kirk",
+          "Solid production out of the two-TE stack after losing two WR's to injury"
+
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -82,6 +93,11 @@
       },
       "team2": {
         "id": "chris",
+        "keys": [
+          "Double digit performances out of Miles Sanders and a Kenyan Drake surprise start",
+          "Confidence in Gesicki paying off after a goose egg in week 1",
+          "Tyreek Hill offsets any Mahomes scores and continues to outscore CMC"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -96,6 +112,11 @@
     {
       "team1": {
         "id": "jim",
+        "keys": [
+          "Cowboys continue where they left off and go big against the Chargers",
+          "Brandin Cooks shines as the lone bright spot in a tough game against Cleveland",
+          "D'Andre Swift stays a big part of the Lions offense in a Monday night divisional clash"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -108,6 +129,11 @@
       },
       "team2": {
         "id": "vin",
+        "keys": [
+          "The Bucs 3-stack dominates the Falcons defense to the tune of 80 fantasy points",
+          "Nick Chubb single handedly tosses the Texans into the depths of hell",
+          "Julio Jones doesn't drop a wide open touchdown this time"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -122,6 +148,11 @@
       {
       "team1": {
         "id": "ron",
+        "keys": [
+          "A shootout between Mahomes and Lamar on Sunday Night Football",
+          "Landry, Ruggs or Callaway get more involved in the offense",
+          "Kyle Pitts and Rob Gronkowski compete to be crowned TE King"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -134,6 +165,11 @@
       },
       "team2": {
         "id": "steve",
+        "keys": [
+          "Davante Adams has a career fantasy performance, puts up 40+ on Detroit",
+          "Sony Michel sees more than 3 snaps, goes for 50 yards",
+          "Justin Herbert has a shootout with Dak Prescott and the Cowboys"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -148,6 +184,11 @@
     {
       "team1": {
         "id": "commish",
+        "keys": [
+          "Najee Harris lives up to the hype, records his first 100 yard game",
+          "Ja'Marr Chase takes the top off the Bears defense and finds the endzone",
+          "Josh Allen continues his dominance on the ground against the Dolphins"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -160,6 +201,11 @@
       },
       "team2": {
         "id": "cliff",
+        "keys": [
+          "Jalen Hurts follows up an impressive season opener with another multi-touchdown game",
+          "Aaron Jones goes for 100 yards and 2 scores on a struggling Lions defense",
+          "Waiver wire prized RB Eli Mitchell remains the go-to back for San Francisco"
+        ],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
