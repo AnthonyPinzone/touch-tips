@@ -10,12 +10,10 @@ import {
   TeamOfTheWeekAward,
 } from "../../components/Awards/";
 
-import getTeamById from "../../utilities/getTeamById";
-
 import data from "../../data/2021/week-1.json";
 
 export default function WeekOne2021({ location }) {
-  const { teams } = data;
+  const { matchups } = data;
 
   return (
     <Layout location={location} weekNumber="One">
@@ -37,30 +35,14 @@ export default function WeekOne2021({ location }) {
       </Awards>
 
       <ScoreSheet>
-        <ScoreCard
-          team1={getTeamById(teams, "commish")}
-          team2={getTeamById(teams, "ron")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "cliff")}
-          team2={getTeamById(teams, "vin")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "jim")}
-          team2={getTeamById(teams, "chris")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "alex")}
-          team2={getTeamById(teams, "shane")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "luke")}
-          team2={getTeamById(teams, "aj")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "brandon")}
-          team2={getTeamById(teams, "steve")}
-        />
+        {matchups.map(matchup => (
+          <ScoreCard
+            key={`${matchup.team1.id}-${matchup.team2.id}`}
+            season="2021"
+            week="1"
+            matchup={matchup}
+          />
+        ))}
       </ScoreSheet>
     </Layout>
   );

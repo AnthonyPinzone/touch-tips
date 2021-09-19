@@ -2,7 +2,7 @@ import React from "react";
 
 const TeamPlayerList = ({ title, items }) => (
   <>
-    <span className="text-lg md:text-2xl">{title}</span>
+    <h4 className="text-lg md:text-2xl">{title}</h4>
     <ol className="uppercase text-gray-200 mb-2">
       {items.map(item => (
         <li className="flex justify-between items-center" key={item.name}>

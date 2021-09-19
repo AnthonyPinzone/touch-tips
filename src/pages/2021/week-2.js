@@ -4,12 +4,10 @@ import { Layout } from "../../components/Layout/";
 import { Seo } from "../../components/Seo/";
 import { ScoreSheet, ScoreCard } from "../../components/Scores/";
 
-import getTeamById from "../../utilities/getTeamById";
-
 import data from "../../data/2021/week-2.json";
 
 export default function WeekTwo2021({ location }) {
-  const { teams } = data;
+  const { matchups } = data;
   return (
     <Layout location={location} weekNumber="Two">
       <Seo title="Week Two" />
@@ -30,30 +28,15 @@ export default function WeekTwo2021({ location }) {
       </Awards> */}
 
       <ScoreSheet>
-        <ScoreCard
-          team1={getTeamById(teams, "brandon")}
-          team2={getTeamById(teams, "aj")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "luke")}
-          team2={getTeamById(teams, "shane")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "alex")}
-          team2={getTeamById(teams, "chris")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "jim")}
-          team2={getTeamById(teams, "vin")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "ron")}
-          team2={getTeamById(teams, "steve")}
-        />
-        <ScoreCard
-          team1={getTeamById(teams, "commish")}
-          team2={getTeamById(teams, "cliff")}
-        />
+        {matchups.map(matchup => (
+          <ScoreCard
+            preview
+            key={`${matchup.team1.id}-${matchup.team2.id}`}
+            season="2021"
+            week="2"
+            matchup={matchup}
+          />
+        ))}
       </ScoreSheet>
     </Layout>
   );

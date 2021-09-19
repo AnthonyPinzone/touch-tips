@@ -7,8 +7,8 @@
           "name": "Najee by Nature",
           "record": "0-1-0",
           "rank": "9",
-          "scores": ["114.60"],
-          "optimals": ["137.13"]
+          "finalScores": ["114.60"],
+          "optimalScores": ["137.13"]
         }
       }
     },
@@ -19,8 +19,8 @@
           "name": "Smashers",
           "record": "1-0-0",
           "rank": "5",
-          "scores": ["120.28"],
-          "optimals": ["140.38"]
+          "finalScores": ["120.28"],
+          "optimalScores": ["140.38"]
         }
       }
     },
@@ -31,8 +31,8 @@
           "name": "Hasta Laviska Baby",
           "record": "1-0-0",
           "rank": "6",
-          "scores": ["103.70"],
-          "optimals": ["132.43"]
+          "finalScores": ["103.70"],
+          "optimalScores": ["132.43"]
         }
       }
     },
@@ -43,8 +43,8 @@
           "name": "All Chubbed Up",
           "record": "0-1-0",
           "rank": "11",
-          "scores": ["97.18"],
-          "optimals": ["133.45"]
+          "finalScores": ["97.18"],
+          "optimalScores": ["133.45"]
         }
       }
     },
@@ -55,8 +55,8 @@
           "name": "Ezekiel 25-17",
           "record": "0-1-0",
           "rank": "8",
-          "scores": ["151.05"],
-          "optimals": ["156.65"]
+          "finalScores": ["151.05"],
+          "optimalScores": ["156.65"]
         }
       }
     },
@@ -67,8 +67,8 @@
           "name": "Full Nelson",
           "record": "1-0-0",
           "rank": "2",
-          "scores": ["158.70"],
-          "optimals": ["164.80"]
+          "finalScores": ["158.70"],
+          "optimalScores": ["164.80"]
         }
       }
     },
@@ -79,8 +79,8 @@
           "name": "Dak and Yellow",
           "record": "1-0-0",
           "rank": "1",
-          "scores": ["171.95"],
-          "optimals": ["178.85"]
+          "finalScores": ["171.95"],
+          "optimalScores": ["178.85"]
         }
       }
     },
@@ -91,8 +91,8 @@
           "name": "Daddy Day Care",
           "record": "0-1-0",
           "rank": "7",
-          "scores": ["167.35"],
-          "optimals": ["167.35"]
+          "finalScores": ["167.35"],
+          "optimalScores": ["167.35"]
         }
       }
     },
@@ -103,8 +103,8 @@
           "name": "DoucheNukemV3",
           "record": "0-1-0",
           "rank": "12",
-          "scores": ["92.68"],
-          "optimals": ["102.85"]
+          "finalScores": ["92.68"],
+          "optimalScores": ["102.85"]
         }
       }
     },
@@ -115,8 +115,8 @@
           "name": "Gage Interest",
           "record": "1-0-0",
           "rank": "4",
-          "scores": ["127.50"],
-          "optimals": ["144.23"]
+          "finalScores": ["127.50"],
+          "optimalScores": ["144.23"]
         }
       }
     },
@@ -127,8 +127,8 @@
           "name": "Captain Kamaraca II",
           "record": "1-0-0",
           "rank": "3",
-          "scores": ["139.30"],
-          "optimals": ["159.95"]
+          "finalScores": ["139.30"],
+          "optimalScores": ["159.95"]
         }
       }
     },
@@ -139,8 +139,8 @@
           "name": "Stevens's Superb Team",
           "record": "0-1-0",
           "rank": "10",
-          "scores": ["113.48"],
-          "optimals": ["113.48"]
+          "finalScores": ["113.48"],
+          "optimalScores": ["113.48"]
         }
       }
     }

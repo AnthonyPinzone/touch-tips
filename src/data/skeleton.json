@@ -1,244 +1,160 @@
 {
-  "teams": [
+  "matchups": [
     {
-      "id": "commish",
-      "details": {
-        "name": "Najee by Nature",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
+      "team1": {
+        "id": "commish",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
       },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
+      "team2": {
+        "id": "ron",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
     },
     {
-      "id": "ron",
-      "details": {
-        "name": "Smashers",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
+      "team1": {
+        "id": "cliff",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
       },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
+      "team2": {
+        "id": "vin",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
     },
     {
-      "id": "cliff",
-      "details": {
-        "name": "Hasta Laviska Baby",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
+      "team1": {
+        "id": "jim",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
       },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
+      "team2": {
+        "id": "chris",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
     },
     {
-      "id": "vin",
-      "details": {
-        "name": "All Chubbed Up",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
+      "team1": {
+        "id": "alex",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
       },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
+      "team2": {
+        "id": "shane",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+      {
+      "team1": {
+        "id": "luke",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "aj",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
     },
     {
-      "id": "jim",
-      "details": {
-        "name": "Ezekiel 25-17",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
+      "team1": {
+        "id": "brandon",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
       },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "chris",
-      "details": {
-        "name": "Full Nelson",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "alex",
-      "details": {
-        "name": "Dak and Yellow",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "shane",
-      "details": {
-        "name": "Daddy Day Care",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "luke",
-      "details": {
-        "name": "DoucheNukemV3",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "aj",
-      "details": {
-        "name": "Gage Interest",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "brandon",
-      "details": {
-        "name": "Captain Kamaraca II",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
-    },
-    {
-      "id": "steve",
-      "details": {
-        "name": "Stevens's Superb Team",
-        "score": "0.00",
-        "optimal": "0.00",
-        "rank": "0",
-        "record": "0-0-0",
-        "winner": false
-      },
-      "studs": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "duds": [
-        { "name": "Player", "score": "0.00" }
-      ],
-      "bench": [
-        { "name": "Player", "score": "0.00" }
-      ]
+      "team2": {
+        "id": "steve",
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
     }
   ]
 }

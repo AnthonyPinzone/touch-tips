@@ -10,13 +10,13 @@ const Detail = ({ label, value }) => (
   </span>
 );
 
-const TeamDetails = ({ score, optimal, rank, record }) => {
+const TeamDetails = ({ preview, score, optimal, rank, record }) => {
   const efficiency = calculatePercentage(score, optimal);
   return (
     <div className="flex justify-between uppercase bg-gray-800 px-3 py-1 text-lg text-center md:text-xl">
       <Detail label="Rank" value={rank} />
       <Detail label="Record" value={record} />
-      <Detail label="Optimal" value={optimal} />
+      <Detail label={preview ? "Optimal Avg." : "Optimal"} value={optimal} />
       <Detail label="Efficiency" value={efficiency} />
     </div>
   );

@@ -1,26 +1,45 @@
 import React from "react";
+import KeysToTheGame from "./KeysToTheGame";
 import TeamContent from "./TeamContent";
 import TeamDetails from "./TeamDetails";
 import TeamExpandButton from "./TeamExpandButton";
 import TeamPlayerList from "./TeamPlayerList";
 import TeamTitle from "./TeamTitle";
 
-const Team = ({ details, studs, duds, bench }) => {
+const Team = ({
+  name,
+  rank,
+  record,
+  score,
+  optimal,
+  winner,
+  keys = [],
+  studs = [],
+  duds = [],
+  bench = [],
+  preview,
+}) => {
   const [expanded, setExpanded] = React.useState(false);
-  const { name, score, optimal, rank, record, winner } = details;
+
   return (
     <div className="shadow-lg flex-1 text-gray-100 border border-gray-800 rounded-md bg-gray-900 xl:rounded-md xl:overflow-hidden">
-      <TeamTitle name={name} score={score} winner={winner} />
+      <TeamTitle preview={preview} name={name} score={score} winner={winner} />
       <TeamDetails
+        preview={preview}
         rank={rank}
         record={record}
         score={score}
         optimal={optimal}
       />
       <TeamContent expanded={expanded}>
-        {studs.length > 0 && <TeamPlayerList title="Studs" items={studs} />}
-        {duds.length > 0 && <TeamPlayerList title="Duds" items={duds} />}
-        {bench.length > 0 && (
+        {preview && keys.length > 0 && <KeysToTheGame keys={keys} />}
+        {!preview && studs.length > 0 && (
+          <TeamPlayerList title="Studs" items={studs} />
+        )}
+        {!preview && duds.length > 0 && (
+          <TeamPlayerList title="Duds" items={duds} />
+        )}
+        {!preview && bench.length > 0 && (
           <TeamPlayerList title="Bench Heroes" items={bench} />
         )}
       </TeamContent>
