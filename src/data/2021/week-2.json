@@ -9,13 +9,18 @@
           "Ryan Tannehill get right game while somehow avoiding Henry"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Ryan Tannehill", "score": "18.05" },
+          { "name": "Deebo Samuel", "score": "13.10" },
+          { "name": "Adam Thielen", "score": "12.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Devonta Smith", "score": "2.60" },
+          { "name": "Clyde Edwards-Helaire", "score": "2.60" },
+          { "name": "Alvin Kamara", "score": "5.00" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Carson Wentz", "score": "22.05" },
+          { "name": "Zach Pascal", "score": "12.30" }
         ]
       },
       "team2": {
@@ -26,13 +31,18 @@
           "Get something out of Edmonds or Moore in Arizona"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Derrick Henry", "score": "44.70" },
+          { "name": "Matthew Stafford", "score": "24.00" },
+          { "name": "Rondale Moore", "score": "22.23" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Corey Davis", "score": "1.80" },
+          { "name": "DJ Chark Jr.", "score": "2.40" },
+          { "name": "Logan Thomas", "score": "7.00" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Cordarrelle Patterson", "score": "22.30" },
+          { "name": "Devin Singletary", "score": "16.10" }
         ]
       }
     },
@@ -45,13 +55,17 @@
           "8+ points from newly acquired TE Robert Tonyan"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Terry McLaurin", "score": "22.20" },
+          { "name": "Dalvin Cook", "score": "15.80" },
+          { "name": "Darrell Henderson Jr.", "score": "15.70" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Nelson Agholor", "score": "3.60" },
+          { "name": "Joe Mixon", "score": "7.60" },
+          { "name": "Chase Claypool", "score": "8.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Michael Pittman Jr.", "score": "16.30" }
         ]
       },
       "team2": {
@@ -62,14 +76,17 @@
           "More consistency out of the receiver core, all 4 have plus match-ups"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Kyler Murray", "score": "43.10" },
+          { "name": "Travis Kelce", "score": "20.40" },
+          { "name": "Diontae Johnson", "score": "15.00" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "George Kittle", "score": "3.70" },
+          { "name": "Amari Cooper", "score": "3.90" },
+          { "name": "Jakobi Meyers", "score": "5.80" },
+          { "name": "Jonathan Taylor", "score": "5.80" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       }
     },
     {
@@ -82,13 +99,18 @@
 
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Patrick Mahomes", "score": "33.45" },
+          { "name": "Tyler Lockett", "score": "27.80" },
+          { "name": "Christian McCaffrey", "score": "22.20" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "KJ Hamler", "score": "1.00" },
+          { "name": "James Conner", "score": "2.60" },
+          { "name": "Dallas Goedert", "score": "3.40" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Hollywood Brown", "score": "20.30" },
+          { "name": "Zack Moss", "score": "14.40" }
         ]
       },
       "team2": {
@@ -99,13 +121,16 @@
           "Tyreek Hill offsets any Mahomes scores and continues to outscore CMC"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Cooper Kupp", "score": "32.30" },
+          { "name": "Russell Wilson", "score": "30.75" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tyreek Hill", "score": "4.40" },
+          { "name": "Kenny Golladay", "score": "5.30" },
+          { "name": "Mike Gesicki", "score": "5.60" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "J.D. McKissic", "score": "17.80" }
         ]
       }
     },
@@ -118,13 +143,16 @@
           "D'Andre Swift stays a big part of the Lions offense in a Monday night divisional clash"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Mike Williams", "score": "18.60" },
+          { "name": "Brandin Cooks", "score": "18.30" },
+          { "name": "Ezekiel Elliott", "score": "16.70" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Van Jefferson Jr.", "score": "1.90" },
+          { "name": "Dak Prescott", "score": "9.85" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Matt Ryan", "score": "23.30" }
         ]
       },
       "team2": {
@@ -135,14 +163,16 @@
           "Julio Jones doesn't drop a wide open touchdown this time"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tom Brady", "score": "42.40" },
+          { "name": "Mike Evans", "score": "22.00" },
+          { "name": "Nick Chubb", "score": "16.30" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Antonio Brown", "score": "2.20" },
+          { "name": "Jared Cook", "score": "4.30" },
+          { "name": "Myles Gaskin", "score": "6.60" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       }
     },
       {
@@ -154,13 +184,18 @@
           "Kyle Pitts and Rob Gronkowski compete to be crowned TE King"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Lamar Jackson", "score": "36.65" },
+          { "name": "Henry Ruggs III", "score": "20.73" },
+          { "name": "Austin Ekeler", "score": "18.00" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jarvis Landry", "score": "1.40" },
+          { "name": "Marquez Callaway", "score": "1.80" },
+          { "name": "Antonio Gibson", "score": "8.30" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tony Pollard", "score": "23.87" },
+          { "name": "Sterling Shepard", "score": "13.00" }
         ]
       },
       "team2": {
@@ -171,13 +206,17 @@
           "Justin Herbert has a shootout with Dak Prescott and the Cowboys"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Justin Herbert", "score": "20.10" },
+          { "name": "Stefon Diggs", "score": "14.00" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Sony Michel", "score": "4.60" },
+          { "name": "Jaylen Waddle", "score": "5.80" },
+          { "name": "Sammy Watkins", "score": "6.40" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Kirk Cousins", "score": "33.70" },
+          { "name": "Hunter Renfrow", "score": "9.07" }
         ]
       }
     },
@@ -190,13 +229,18 @@
           "Josh Allen continues his dominance on the ground against the Dolphins"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Josh Allen", "score": "22.45" },
+          { "name": "DJ Moore", "score": "17.90" },
+          { "name": "Najee Harris", "score": "16.60" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Nyheim Hines", "score": "2.70" },
+          { "name": "Jonnu Smith", "score": "4.80" },
+          { "name": "DK Metcalf", "score": "8.30" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Courtland Sutton", "score": "20.40" },
+          { "name": "Marvin Jones", "score": "14.50" }
         ]
       },
       "team2": {
@@ -207,13 +251,16 @@
           "Waiver wire prized RB Eli Mitchell remains the go-to back for San Francisco"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jalen Hurts", "score": "23.70" },
+          { "name": "Calvin Ridley", "score": "15.80" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tyler Higbee", "score": "1.30" },
+          { "name": "Eli Mitchell", "score": "6.30" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "James White", "score": "15.50" },
+          { "name": "Tim Patrick", "score": "11.20" }
         ]
       }
     }

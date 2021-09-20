@@ -30,7 +30,6 @@ export default function WeekTwo2021({ location }) {
       <ScoreSheet>
         {matchups.map(matchup => (
           <ScoreCard
-            preview
             key={`${matchup.team1.id}-${matchup.team2.id}`}
             season="2021"
             week="2"
