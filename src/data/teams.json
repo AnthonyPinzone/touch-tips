@@ -5,8 +5,8 @@
       "seasons": {
         "2021": {
           "name": "Najee by Nature",
-          "record": "0-1-0",
-          "rank": "9",
+          "record": "0-2-0",
+          "rank": "11",
           "finalScores": ["114.60", "104.85"],
           "optimalScores": ["137.13", "128.75"]
         }
@@ -17,8 +17,8 @@
       "seasons": {
         "2021": {
           "name": "Smashers",
-          "record": "1-0-0",
-          "rank": "5",
+          "record": "2-0-0",
+          "rank": "3",
           "finalScores": ["120.28", "127.98"],
           "optimalScores": ["140.38", "161.65"]
         }
@@ -29,10 +29,10 @@
       "seasons": {
         "2021": {
           "name": "Hasta Laviska Baby",
-          "record": "1-0-0",
-          "rank": "6",
-          "finalScores": ["103.70", "78.90"],
-          "optimalScores": ["132.43", "109.10"]
+          "record": "2-0-0",
+          "rank": "4",
+          "finalScores": ["103.70", "122.60"],
+          "optimalScores": ["132.43", "138.20"]
         }
       }
     },
@@ -41,8 +41,8 @@
       "seasons": {
         "2021": {
           "name": "All Chubbed Up",
-          "record": "0-1-0",
-          "rank": "11",
+          "record": "1-1-0",
+          "rank": "7",
           "finalScores": ["97.18", "130.90"],
           "optimalScores": ["133.45", "138.30"]
         }
@@ -53,10 +53,10 @@
       "seasons": {
         "2021": {
           "name": "Ezekiel 25-17",
-          "record": "0-1-0",
-          "rank": "8",
-          "finalScores": ["151.05", "104.25"],
-          "optimalScores": ["156.65", "134.50"]
+          "record": "0-2-0",
+          "rank": "10",
+          "finalScores": ["151.05", "114.05"],
+          "optimalScores": ["156.65", "135.40"]
         }
       }
     },
@@ -65,8 +65,8 @@
       "seasons": {
         "2021": {
           "name": "Full Nelson",
-          "record": "1-0-0",
-          "rank": "2",
+          "record": "1-1-0",
+          "rank": "5",
           "finalScores": ["158.70", "113.55"],
           "optimalScores": ["164.80", "128.35"]
         }
@@ -77,10 +77,10 @@
       "seasons": {
         "2021": {
           "name": "Dak and Yellow",
-          "record": "1-0-0",
+          "record": "2-0-0",
           "rank": "1",
-          "finalScores": ["171.95", "102.05"],
-          "optimalScores": ["178.85", "140.45"]
+          "finalScores": ["171.95", "118.65"],
+          "optimalScores": ["178.85", "151.85"]
         }
       }
     },
@@ -89,8 +89,8 @@
       "seasons": {
         "2021": {
           "name": "Daddy Day Care",
-          "record": "0-1-0",
-          "rank": "7",
+          "record": "0-2-0",
+          "rank": "9",
           "finalScores": ["167.35", "116.40"],
           "optimalScores": ["167.35", "119.40"]
         }
@@ -101,10 +101,10 @@
       "seasons": {
         "2021": {
           "name": "DoucheNukemV3",
-          "record": "0-1-0",
-          "rank": "12",
-          "finalScores": ["92.68", "86.10"],
-          "optimalScores": ["102.85", "102.27"]
+          "record": "1-1-0",
+          "rank": "6",
+          "finalScores": ["92.68", "136.15"],
+          "optimalScores": ["102.85", "157.28"]
         }
       }
     },
@@ -112,9 +112,9 @@
       "id": "aj",
       "seasons": {
         "2021": {
-          "name": "Gage Interest",
-          "record": "1-0-0",
-          "rank": "4",
+          "name": "Feed Me Moore",
+          "record": "2-0-0",
+          "rank": "2",
           "finalScores": ["127.50", "142.73"],
           "optimalScores": ["144.23", "176.93"]
         }
@@ -125,8 +125,8 @@
       "seasons": {
         "2021": {
           "name": "Captain Kamaraca II",
-          "record": "1-0-0",
-          "rank": "3",
+          "record": "1-1-0",
+          "rank": "8",
           "finalScores": ["139.30", "76.45"],
           "optimalScores": ["159.95", "94.25"]
         }
@@ -137,10 +137,10 @@
       "seasons": {
         "2021": {
           "name": "Stevens's Superb Team",
-          "record": "0-1-0",
-          "rank": "10",
-          "finalScores": ["113.48", "80.60"],
-          "optimalScores": ["113.48", "104.47"]
+          "record": "0-2-0",
+          "rank": "12",
+          "finalScores": ["113.48", "96.70"],
+          "optimalScores": ["113.48", "114.17"]
         }
       }
     }

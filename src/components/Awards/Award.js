@@ -35,7 +35,7 @@ const YouBlewItAward = ({ className, team }) => (
   <Award
     awardName="You Blew It!!!"
     awardStyles={className}
-    awardDescription="The worst scoring team of the week... often owned by the most vile fantasy football player in the league."
+    awardDescription="Wow, you really suck! I'm not sure you should show your face this week. Sit this one out."
     awardIcon={<FaPoop />}
     awardIconStyles="text-yellow-900 text-5xl"
     team={team}
@@ -57,7 +57,7 @@ const TeamOfTheWeekAward = ({ className, team }) => (
   <Award
     awardName="Team of the Week"
     awardStyles={className}
-    awardDescription="The highest scoring team of the week... this person is a fantasy football hero, and he'll let you know it."
+    awardDescription="Congratulations on being the best team in the league this week! Take a moment to soak it all in and look down upon the other peons in the league."
     awardIcon={<GiPodiumWinner />}
     awardIconStyles="text-yellow-300"
     team={team}

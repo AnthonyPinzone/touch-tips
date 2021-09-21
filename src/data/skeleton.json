@@ -3,6 +3,7 @@
     {
       "team1": {
         "id": "commish",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -15,6 +16,7 @@
       },
       "team2": {
         "id": "ron",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -29,6 +31,7 @@
     {
       "team1": {
         "id": "cliff",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -41,6 +44,7 @@
       },
       "team2": {
         "id": "vin",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -55,6 +59,7 @@
     {
       "team1": {
         "id": "jim",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -67,6 +72,7 @@
       },
       "team2": {
         "id": "chris",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -81,6 +87,7 @@
     {
       "team1": {
         "id": "alex",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -93,6 +100,7 @@
       },
       "team2": {
         "id": "shane",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -107,6 +115,7 @@
       {
       "team1": {
         "id": "luke",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -119,6 +128,7 @@
       },
       "team2": {
         "id": "aj",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -133,6 +143,7 @@
     {
       "team1": {
         "id": "brandon",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],
@@ -145,6 +156,7 @@
       },
       "team2": {
         "id": "steve",
+        "keys": [],
         "studs": [
           { "name": "player", "score": "0.00" }
         ],

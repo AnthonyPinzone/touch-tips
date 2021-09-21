@@ -55,9 +55,9 @@
           "8+ points from newly acquired TE Robert Tonyan"
         ],
         "studs": [
+          { "name": "Aaron Rodgers", "score": "37.35" },
           { "name": "Terry McLaurin", "score": "22.20" },
-          { "name": "Dalvin Cook", "score": "15.80" },
-          { "name": "Darrell Henderson Jr.", "score": "15.70" }
+          { "name": "Dalvin Cook", "score": "15.80" }
         ],
         "duds": [
           { "name": "Nelson Agholor", "score": "3.60" },
@@ -65,7 +65,8 @@
           { "name": "Chase Claypool", "score": "8.20" }
         ],
         "bench": [
-          { "name": "Michael Pittman Jr.", "score": "16.30" }
+          { "name": "Michael Pittman Jr.", "score": "16.30" },
+          { "name": "Quintez Cephus", "score": "14.30" }
         ]
       },
       "team2": {
@@ -149,6 +150,7 @@
         ],
         "duds": [
           { "name": "Van Jefferson Jr.", "score": "1.90" },
+          { "name": "D'Andre Swift", "score": "9.80" },
           { "name": "Dak Prescott", "score": "9.85" }
         ],
         "bench": [
@@ -207,6 +209,7 @@
         ],
         "studs": [
           { "name": "Justin Herbert", "score": "20.10" },
+          { "name": "Davante Adams", "score": "16.10" },
           { "name": "Stefon Diggs", "score": "14.00" }
         ],
         "duds": [
@@ -251,11 +254,13 @@
           "Waiver wire prized RB Eli Mitchell remains the go-to back for San Francisco"
         ],
         "studs": [
+          { "name": "Aaron Jones", "score": "38.50" },
           { "name": "Jalen Hurts", "score": "23.70" },
           { "name": "Calvin Ridley", "score": "15.80" }
         ],
         "duds": [
           { "name": "Tyler Higbee", "score": "1.30" },
+          { "name": "Jamaal Williams", "score": "5.20" },
           { "name": "Eli Mitchell", "score": "6.30" }
         ],
         "bench": [
