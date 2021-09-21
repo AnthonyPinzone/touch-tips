@@ -22,7 +22,7 @@ const Team = ({
   const [expanded, setExpanded] = React.useState(false);
 
   return (
-    <div className="shadow-lg flex-1 text-gray-100 border border-gray-800 rounded-md bg-gray-900 xl:rounded-md xl:overflow-hidden">
+    <div className="h-100 shadow-lg flex-1 text-gray-100 border border-gray-800 rounded-md bg-gray-900 xl:rounded-md xl:overflow-hidden">
       <TeamTitle preview={preview} name={name} score={score} winner={winner} />
       <TeamDetails
         preview={preview}

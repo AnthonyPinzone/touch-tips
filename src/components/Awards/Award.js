@@ -46,7 +46,7 @@ const EfficientlyEfficientAward = ({ className, team }) => (
   <Award
     awardName="Efficiently Efficient"
     awardStyles={className}
-    awardDescription="The WINNING team with the highest starting efficiency... because just being efficient isn't enough to win."
+    awardDescription="Congrats on being the WINNING team with the highest starting efficiency... because just being efficient isn't enough to win."
     awardIcon={<BiTimer />}
     awardIconStyles="text-yellow-500"
     team={team}
