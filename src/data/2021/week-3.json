@@ -1,0 +1,220 @@
+{
+  "matchups": [
+    {
+      "team1": {
+        "id": "commish",
+        "keys": [
+          "Ty'Son Williams turns flashes into stardom, has a breakout game",
+          "Josh Allen embarasses the Washington defense, records his first 30-point game",
+          "Courtland Sutton continues to find his form, destroys the Jets secondary"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "jim",
+        "keys": [
+          "Dak Prescott gets right against a tough Philly defense, goes for 300+",
+          "Hopkins, Godwin, Cooks continue strong seasons with 15+ each",
+          "Noah Fant enters the top-5 TE conversation with 100 yards and 2 scores"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "ron",
+        "keys": [
+          "Tony Pollard builds off his career performance, scores 10+",
+          "Sterling Shepard dominates target share again, catches 10 balls",
+          "Austin Ekeler goes 50 rushing, 50 receiving with a score against KC"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "cliff",
+        "keys": [
+          "Aaron Jones continues to dominate with another 100 yards and 2 scores",
+          "Laviska Shenault goes for 100 total yards and a score in a shootout with Arizona",
+          "Robert Woods takes the top of the Bucs, records a 75-yard TD"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "alex",
+        "keys": [
+          "Hollywood Brown stays consistent with his third straight touchdown game",
+          "Patrick Mahomes goes for 3+ scores for the third game in a row",
+          "KJ Osborn records his first career 100-yard game"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "vin",
+        "keys": [
+          "Tom Brady and Mike Evans connect for 3 scores",
+          "Saquon dominates a weak Falcons front, explodes for 150-yards",
+          "Nick Chubb finally breaks 100-yards rushing against a hot-and-cold Chicago front"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "luke",
+        "keys": [
+          "Joe Mixon bounces back, shocks strong Pittsburgh front with 100-yard performance",
+          "Scary Terry stays hot with Heinicke under center, scoring twice",
+          "Aaron Rodgers 'calms the crowd' on Sunday Night Football with another dominant game"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "chris",
+        "keys": [
+          "Tyreek Hill recovers nicely, closes in on 200 total yards for the game",
+          "Cooper Kupp gets another 10+ targets and continues his scoring streak",
+          "Kenyan Drake finds the endzone twice against his former team"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+      {
+      "team1": {
+        "id": "brandon",
+        "keys": [
+          "The QB swap works out, Danny Dimes rushes for 100-yards on Falcons",
+          "Robbie Anderson finally emerges with his first 10+ point game",
+          "Clyde Edwards-Helaire does literally anything... like... anything"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "shane",
+        "keys": [
+          "George Kittle sees a big game in a shootout with Green Bay",
+          "Kyler Murray goes for 50 against a really bad Jags team",
+          "Melvin Gordon roughs up the Jets front-7, puts up 100 on the ground"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "aj",
+        "keys": [
+          "Chase Edmonds has his first big game of the season in a run-out-the-clock scenario",
+          "Odell Beckham Jr. returns to his Giants form in his first game back",
+          "Matthew Stafford stays poised against a tough Bucs defense"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "steve",
+        "keys": [
+          "Davante Adams scores for the first time this year, gets two",
+          "Mark Andrews gets involved against Detroit, goes for 80-yards",
+          "Justin Herbert gets it right in shootout with the rival Chiefs"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    }
+  ]
+}
