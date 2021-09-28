@@ -9,13 +9,19 @@
           "Courtland Sutton continues to find his form, destroys the Jets secondary"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Josh Allen", "score": "48.80" },
+          { "name": "Najee Harris", "score": "21.20" },
+          { "name": "Ja'Marr Chase", "score": "20.50" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jonnu Smith", "score": "0.90" },
+          { "name": "Ty'Son Williams", "score": "2.20" },
+          { "name": "Courtland Sutton", "score": "6.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Nyheim Hines", "score": "16.40" },
+          { "name": "Zach Ertz", "score": "13.30" },
+          { "name": "Javonte Williams", "score": "11.70" }
         ]
       },
       "team2": {
@@ -26,14 +32,15 @@
           "Noah Fant enters the top-5 TE conversation with 100 yards and 2 scores"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Mike Williams", "score": "29.70" },
+          { "name": "Dak Prescott", "score": "28.50" },
+          { "name": "Ezekiel Elliott", "score": "25.10" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Noah Fant", "score": "2.50" },
+          { "name": "DeAndre Hopkins", "score": "3.60" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       }
     },
     {
@@ -45,13 +52,17 @@
           "Austin Ekeler goes 50 rushing, 50 receiving with a score against KC"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Lamar Jackson", "score": "24.15" },
+          { "name": "Austin Ekeler", "score": "19.70" },
+          { "name": "Antonio Gibson", "score": "16.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Sterling Shepard", "score": "2.60" },
+          { "name": "Kyle Pitts", "score": "4.50" },
+          { "name": "Tony Pollard", "score": "7.00" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Pat Freiermuth", "score": "9.70" }
         ]
       },
       "team2": {
@@ -62,13 +73,18 @@
           "Robert Woods takes the top of the Bucs, records a 75-yard TD"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jalen Hurts", "score": "27.80" },
+          { "name": "Aaron Jones", "score": "16.60" },
+          { "name": "George Kittle", "score": "13.60" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "James White", "score": "0.60" },
+          { "name": "Damien Harris", "score": "2.10" },
+          { "name": "Allen Robinson II", "score": "3.70" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jamaal Williams", "score": "13.70" },
+          { "name": "Tyler Higbee", "score": "12.50" }
         ]
       }
     },
@@ -81,13 +97,17 @@
           "KJ Osborn records his first career 100-yard game"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Patrick Mahomes", "score": "31.50" },
+          { "name": "Kareem Hunt", "score": "24.50" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "AJ Brown", "score": "0.30" },
+          { "name": "TJ Hockenson", "score": "2.00" },
+          { "name": "K.J. Osborn", "score": "3.60" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Zack Moss", "score": "16.60" },
+          { "name": "Bryan Edwards", "score": "10.40" }
         ]
       },
       "team2": {
@@ -98,13 +118,18 @@
           "Nick Chubb finally breaks 100-yards rushing against a hot-and-cold Chicago front"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tom Brady", "score": "35.00" },
+          { "name": "Saquon Barkley", "score": "18.40" },
+          { "name": "Cole Beasley", "score": "15.30" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jared Cook", "score": "3.70" },
+          { "name": "JuJu Smith-Schuster", "score": "4.00" },
+          { "name": "Julio Jones", "score": "6.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Alexander Mattison", "score": "20.10" },
+          { "name": "Brandon Aiyuk", "score": "13.27" }
         ]
       }
     },
@@ -117,13 +142,17 @@
           "Aaron Rodgers 'calms the crowd' on Sunday Night Football with another dominant game"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Aaron Rodgers", "score": "25.15" },
+          { "name": "James Conner", "score": "17.80" },
+          { "name": "Chase Claypool", "score": "14.10" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Robert Tonyan", "score": "1.10" },
+          { "name": "Quintez Cephus", "score": "1.30" },
+          { "name": "Darnell Mooney", "score": "1.40" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Mecole Hardman", "score": "11.23" }
         ]
       },
       "team2": {
@@ -134,13 +163,18 @@
           "Kenyan Drake finds the endzone twice against his former team"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Cooper Kupp", "score": "26.10" },
+          { "name": "Russell Wilson", "score": "21.60" },
+          { "name": "Keenan Allen", "score": "15.00" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Miles Sanders", "score": "7.00" },
+          { "name": "Tyreek Hill", "score": "7.20" },
+          { "name": "Kenyan Drake", "score": "7.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Joe Burrow", "score": "25.30" },
+          { "name": "Emmanuel Sanders", "score": "23.90" }
         ]
       }
     },
@@ -153,13 +187,17 @@
           "Clyde Edwards-Helaire does literally anything... like... anything"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "James Robinson", "score": "22.40" },
+          { "name": "Alvin Kamara", "score": "19.30" },
+          { "name": "Daniel Jones", "score": "19.20" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Robbie Anderson", "score": "1.30" },
+          { "name": "Devonta Smith", "score": "4.30" },
+          { "name": "Deebo Samuel", "score": "7.70" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Ryan Tannehill", "score": "29.45" }
         ]
       },
       "team2": {
@@ -170,14 +208,17 @@
           "Melvin Gordon roughs up the Jets front-7, puts up 100 on the ground"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Kyler Murray", "score": "21.70" },
+          { "name": "Melvin Gordon III", "score": "14.70" },
+          { "name": "Travis Kelce", "score": "13.90" },
+          { "name": "Jakobi Meyers", "score": "13.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Amari Cooper", "score": "4.10" },
+          { "name": "Jonathan Taylor", "score": "7.70" },
+          { "name": "Mike Davis", "score": "9.00" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       }
     },
     {
@@ -189,13 +230,15 @@
           "Matthew Stafford stays poised against a tough Bucs defense"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Matthew Stafford", "score": "40.95" },
+          { "name": "Justin Jefferson", "score": "22.30" },
+          { "name": "Derrick Henry", "score": "17.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Rondale Moore", "score": "2.30" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "DJ Chark Jr.", "score": "12.40" }
         ]
       },
       "team2": {
@@ -206,13 +249,17 @@
           "Justin Herbert gets it right in shootout with the rival Chiefs"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Justin Herbert", "score": "41.65" },
+          { "name": "Davante Adams", "score": "25.20" },
+          { "name": "Hunter Renfrow", "score": "16.50" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Leonard Fournette", "score": "4.90" },
+          { "name": "Sammy Watkins", "score": "8.80" },
+          { "name": "Stefon Diggs", "score": "9.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jaylen Waddle", "score": "11.80" }
         ]
       }
     }

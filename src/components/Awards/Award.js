@@ -1,5 +1,5 @@
 import React from "react";
-import { GiPodiumWinner } from "react-icons/gi";
+import { GiPodiumWinner, GiTightrope } from "react-icons/gi";
 import { FaPoop } from "react-icons/fa";
 import { BiTimer } from "react-icons/bi";
 
@@ -34,7 +34,7 @@ const Award = ({
 const YouBlewItAward = ({ className, team }) => (
   <Award
     awardName="You Blew It!!!"
-    awardStyles={className}
+    awardStyles={`bg-yellow-900 border-yellow-900 ${className}`}
     awardDescription="Wow, you really suck! I'm not sure you should show your face this week. Sit this one out."
     awardIcon={<FaPoop />}
     awardIconStyles="text-yellow-900 text-5xl"
@@ -45,7 +45,7 @@ const YouBlewItAward = ({ className, team }) => (
 const EfficientlyEfficientAward = ({ className, team }) => (
   <Award
     awardName="Efficiently Efficient"
-    awardStyles={className}
+    awardStyles={`bg-yellow-500 border-yellow-500 ${className}`}
     awardDescription="Congrats on being the WINNING team with the highest starting efficiency... because just being efficient isn't enough to win."
     awardIcon={<BiTimer />}
     awardIconStyles="text-yellow-500"
@@ -56,7 +56,7 @@ const EfficientlyEfficientAward = ({ className, team }) => (
 const TeamOfTheWeekAward = ({ className, team }) => (
   <Award
     awardName="Team of the Week"
-    awardStyles={className}
+    awardStyles={`bg-yellow-300 border-yellow-300 ${className}`}
     awardDescription="Congratulations on being the best team in the league this week! Take a moment to soak it all in and look down upon the other peons in the league."
     awardIcon={<GiPodiumWinner />}
     awardIconStyles="text-yellow-300"
@@ -64,4 +64,20 @@ const TeamOfTheWeekAward = ({ className, team }) => (
   />
 );
 
-export { YouBlewItAward, EfficientlyEfficientAward, TeamOfTheWeekAward };
+const MondayNightMiracleAward = ({ className, team }) => (
+  <Award
+    awardName="Monday Night Miracle"
+    awardStyles={`bg-green-300 border-green-300 ${className}`}
+    awardDescription="Congratulations! You won a tight match on Monday Night Football despite being projected to lose!"
+    awardIcon={<GiTightrope />}
+    awardIconStyles="text-green-400"
+    team={team}
+  />
+);
+
+export {
+  YouBlewItAward,
+  EfficientlyEfficientAward,
+  TeamOfTheWeekAward,
+  MondayNightMiracleAward,
+};
