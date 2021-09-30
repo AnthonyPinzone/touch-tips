@@ -1,0 +1,220 @@
+{
+  "matchups": [
+    {
+      "team1": {
+        "id": "aj",
+        "keys": [
+          "Matthew Stafford goes toe-to-toe with Kyler Murray for another 40+ point performance",
+          "Odell Beckham Jr. finds success against the Vikings for 75+ yards and a score",
+          "Patterson continues to be the Falcons best weapon against a struggling Washington def"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "shane",
+        "keys": [
+          "Kyler Murray shakes his past against the Rams, scores 40 fantasy points",
+          "Melvin Gordon continues his quietly strong campaign, puts up 100+ yards",
+          "Jakobi Meyers tries to keep the score close against Brady and the Bucs"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "brandon",
+        "keys": [
+          "Ryan Tannehill returns to form against a horrific Jets team",
+          "Robbie Anderson gets more than 1 target, finishes with 50+ yards",
+          "Alvin Kamara goes 'lights out' against the G-Men with 200 all-purpose yards"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "chris",
+        "keys": [
+          "Tyreek Hill explodes on the Eagles secondary for 200 yards",
+          "Cooper Kupp continues his Fantasy MVP campaign with another 100+ yards",
+          "Mike Gesicki gets 10 targets and a score from Jacoby Brissett"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "luke",
+        "keys": [
+          "Scary Terry lights up the Falcons weak secondary for two scores",
+          "Chase Claypool remains the last receiver standing for the Steelers",
+          "Cook and Henderson return from injury, score at least 10 each"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "vin",
+        "keys": [
+          "Tom Brady has a career game against New England on Sunday Night",
+          "Nick Chubb dominates the Vikings defense, puts up 150 yards",
+          "Myles Gaskin finds some rhythm, goes for 100 yards and a score"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "cliff",
+        "keys": [
+          "Jalen Hurts continues a strong campaign rushing the ball, scores twice",
+          "Calvin Ridley finally breaks out of his slump and finds the endzone",
+          "Newly acquired Nyheim Hines catches 10 passes for 100 yards and a score"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "steve",
+        "keys": [
+          "Justin Herbert goes big against the Raiders w/ 300 yards and 4 scores",
+          "Davante Adams gets rolling with another 100 yard, multi-score performance",
+          "Hunter Renfrow continues his surprisingly strong campaign, finds the endzone"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+      {
+      "team1": {
+        "id": "ron",
+        "keys": [
+          "Lamar Jackson throws multiple passing touchdowns for the first time this season",
+          "DeSean Jackson goes yard on an 80-yard bomb against a stout Cardinals defense",
+          "Antonio Gibson continues to be involved in the passing game, gets 10 targets"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "jim",
+        "keys": [
+          "D'Andre Swift continues his big run against a tough Bears defense",
+          "Dak and Zeke get on a run, surprise the Panthers",
+          "Mike Williams dominates the Vegas secondary for at least one score"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "commish",
+        "keys": [
+          "Josh Allen stays hot, scores four times on Houston",
+          "David Montgomery finds pay dirt against the Lions",
+          "Chuba Hubbard has a big day in relief of CMC"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "alex",
+        "keys": [
+          "Patrick Mahomes gets past the turnover bug and returns to form",
+          "Zack Moss turns up the heat on Houston, goes for 2 scores",
+          "Marquise Brown remembers how to catch a football, handing Denver their first loss"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    }
+  ]
+}
