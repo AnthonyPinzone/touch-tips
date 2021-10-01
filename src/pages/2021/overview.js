@@ -48,15 +48,20 @@ export default function Overview2021({ location }) {
   const sortStandings = sortCategory => {
     let sortedStandings;
     if (sortCategory === "efficiency") {
-      sortedStandings = [...standings].sort(
-        (a, b) =>
-          Number(a.efficiency.replace("%", "")) <
-          Number(b.efficiency.replace("%", ""))
+      sortedStandings = [...standings].sort((a, b) =>
+        Number(a.efficiency.replace("%", "")) <
+        Number(b.efficiency.replace("%", ""))
+          ? 1
+          : -1
       );
     } else if (sortCategory === "points") {
-      sortedStandings = [...standings].sort((a, b) => a.points < b.points);
+      sortedStandings = [...standings].sort((a, b) =>
+        a.points < b.points ? 1 : -1
+      );
     } else if (sortCategory === "optimal") {
-      sortedStandings = [...standings].sort((a, b) => a.optimal < b.optimal);
+      sortedStandings = [...standings].sort((a, b) =>
+        a.optimal < b.optimal ? 1 : -1
+      );
     } else {
       sortedStandings = [...standings].sort(
         (a, b) => b.record.localeCompare(a.record) || a.points < b.points
