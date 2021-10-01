@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
+import { IoMdPodium } from "react-icons/io";
 
 const matchupLinks = [
   {
@@ -25,9 +26,19 @@ const Header = ({ location, weekNumber }) => {
   const currentPage = location.pathname;
   return (
     <header className="sticky top-0 z-20 flex flex-col justify-between bg-gradient-to-b from-gray-800 to-gray-900 border-t border-t-gray-900 text-white text-center md:flex-row">
-      <h1 className="p-3 text-2xl sm:text-3xl md:text-4xl">
-        Touch Tips 2021 - Week {weekNumber}
+      <h1 className="text-2xl sm:text-3xl md:pl-16 md:text-4xl">
+        <Link className="block p-3" to="/">
+          Touch Tips 2021 {weekNumber && `- Week ${weekNumber}`}
+        </Link>
       </h1>
+
+      <Link
+        className="flex items-center justify-center bg-yellow-600 bg-opacity-25 hover:bg-opacity-100 border border-yellow-800 rounded-md w-10 h-10 absolute left-2 top-2 md:left-5 md:top-1/2 md:transform md:-translate-y-1/2 transition-all"
+        to="/2021/overview"
+      >
+        <IoMdPodium className="text-3xl" />
+        <span className="sr-only">2021 Stats and Standings</span>
+      </Link>
 
       <div className="relative self-stretch w-full md:w-40 border-l border-gray-900 bg-gray-800">
         <button

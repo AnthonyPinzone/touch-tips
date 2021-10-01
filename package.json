@@ -8,6 +8,7 @@
     "@fontsource/teko": "^4.5.0",
     "@fontsource/urbanist": "^4.5.1",
     "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.4",
     "gatsby": "^3.13.0",
     "gatsby-core-utils": "^2.13.0",
     "gatsby-plugin-image": "^1.13.0",
