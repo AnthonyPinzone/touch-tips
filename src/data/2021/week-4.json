@@ -9,13 +9,17 @@
           "Patterson continues to be the Falcons best weapon against a struggling Washington def"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Cordarrelle Patterson", "score": "34.70" },
+          { "name": "Matthew Stafford", "score": "26.10" },
+          { "name": "Derrick Henry", "score": "24.70" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Logan Thomas", "score": "0.00" },
+          { "name": "Chris Carson", "score": "3.60" },
+          { "name": "Odell Beckham Jr.", "score": "4.10" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Kalif Raymond", "score": "19.07" }
         ]
       },
       "team2": {
@@ -26,13 +30,18 @@
           "Jakobi Meyers tries to keep the score close against Brady and the Bucs"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Kyler Murray", "score": "29.30" },
+          { "name": "Diontae Johnson", "score": "19.70" },
+          { "name": "Jonathan Taylor", "score": "18.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Travis Kelce", "score": "4.30" },
+          { "name": "Melvin Gordon III", "score": "7.70" },
+          { "name": "Mike Davis", "score": "9.60" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "AJ Dillon", "score": "10.20" },
+          { "name": "Amon-Ra St. Brown", "score": "10.00" }
         ]
       }
     },
@@ -45,13 +54,17 @@
           "Alvin Kamara goes 'lights out' against the G-Men with 200 all-purpose yards"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Deebo Samuel", "score": "32.20" },
+          { "name": "Ryan Tannehill", "score": "23.80" },
+          { "name": "James Robinson", "score": "20.10" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Adam Thielen", "score": "6.10" },
+          { "name": "Robbie Anderson", "score": "7.40" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "DeVante Parker", "score": "15.70" },
+          { "name": "Dalton Schultz", "score": "14.80" }
         ]
       },
       "team2": {
@@ -62,13 +75,19 @@
           "Mike Gesicki gets 10 targets and a score from Jacoby Brissett"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tyreek Hill", "score": "42.10" },
+          { "name": "Russell Wilson", "score": "28.05" },
+          { "name": "Kenny Golladay", "score": "14.60" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Christian Kirk", "score": "1.00" },
+          { "name": "Miles Sanders", "score": "6.20" },
+          { "name": "Cooper Kupp", "score": "8.90" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Joe Burrow", "score": "29.80" },
+          { "name": "J.D. McKissic", "score": "14.40" },
+          { "name": "Emmanuel Sanders", "score": "10.60" }
         ]
       }
     },
@@ -81,13 +100,19 @@
           "Cook and Henderson return from injury, score at least 10 each"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Aaron Rodgers", "score": "30.60" },
+          { "name": "Terry McLaurin", "score": "27.30" },
+          { "name": "Darnell Mooney", "score": "16.00" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Robert Tonyan", "score": "1.80" },
+          { "name": "Mecole Hardman", "score": "5.10" },
+          { "name": "Dalvin Cook", "score": "5.40" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "James Conner", "score": "19.60" },
+          { "name": "Kenneth Gainwell", "score": "17.90" },
+          { "name": "Quintez Cephus", "score": "10.30" }
         ]
       },
       "team2": {
@@ -98,13 +123,18 @@
           "Myles Gaskin finds some rhythm, goes for 100 yards and a score"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Saquon Barkley", "score": "27.10" },
+          { "name": "Mike Evans", "score": "11.00" },
+          { "name": "Nick Chubb", "score": "11.00" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Myles Gaskin", "score": "0.30" },
+          { "name": "JuJu Smith-Schuster", "score": "2.10" },
+          { "name": "Cole Beasley", "score": "2.60" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Latavius Murray", "score": "11.90" },
+          { "name": "Antonio Brown", "score": "9.80" }
         ]
       }
     },
@@ -117,13 +147,18 @@
           "Newly acquired Nyheim Hines catches 10 passes for 100 yards and a score"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Jalen Hurts", "score": "36.05" },
+          { "name": "Robert Woods", "score": "12.80" },
+          { "name": "Calvin Ridley", "score": "11.50" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Nyheim Hines", "score": "0.07" },
+          { "name": "Tim Patrick", "score": "5.40" },
+          { "name": "George Kittle", "score": "6.00" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Alex Collins", "score": "14.80" },
+          { "name": "Laviska Shenault Jr.", "score": "14.00" }
         ]
       },
       "team2": {
@@ -134,14 +169,16 @@
           "Hunter Renfrow continues his surprisingly strong campaign, finds the endzone"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Leonard Fournette", "score": "15.30" },
+          { "name": "A.J. Green", "score": "15.20" },
+          { "name": "Stefon Diggs", "score": "14.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Sony Michel", "score": "-0.90" },
+          { "name": "Sammy Watkins", "score": "6.90" },
+          { "name": "Davante Adams", "score": "9.40" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       }
     },
       {
@@ -153,14 +190,15 @@
           "Antonio Gibson continues to be involved in the passing game, gets 10 targets"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Lamar Jackson", "score": "24.60" },
+          { "name": "Antonio Gibson", "score": "14.50" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "DeSean Jackson", "score": "1.10" },
+          { "name": "CeeDee Lamb", "score": "2.30" },
+          { "name": "Evan Engram", "score": "4.90" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       },
       "team2": {
         "id": "jim",
@@ -170,13 +208,19 @@
           "Mike Williams dominates the Vegas secondary for at least one score"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Dak Prescott", "score": "36.90" },
+          { "name": "Ezekiel Elliott", "score": "20.30" },
+          { "name": "Noah Fant", "score": "13.60" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "D'Andre Swift", "score": "6.90" },
+          { "name": "Chris Godwin", "score": "7.00" },
+          { "name": "Brandin Cooks", "score": "7.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Matt Ryan", "score": "39.85" },
+          { "name": "Darrel Williams", "score": "12.80" },
+          { "name": "Michael Carter", "score": "9.90" }
         ]
       }
     },
@@ -189,14 +233,16 @@
           "Chuba Hubbard has a big day in relief of CMC"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "DJ Moore", "score": "27.90" },
+          { "name": "Josh Allen", "score": "26.50" },
+          { "name": "David Montgomery", "score": "22.60" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tyler Higbee", "score": "5.60" },
+          { "name": "Courtland Sutton", "score": "6.20" },
+          { "name": "Chuba Hubbard", "score": "8.10" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       },
       "team2": {
         "id": "alex",
@@ -206,13 +252,19 @@
           "Marquise Brown remembers how to catch a football, handing Denver their first loss"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Patrick Mahomes", "score": "44.50" },
+          { "name": "Marquise Brown", "score": "17.10" },
+          { "name": "Kareem Hunt", "score": "15.60" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Tyler Lockett", "score": "4.40" },
+          { "name": "K.J. Osborn", "score": "5.10" },
+          { "name": "TJ Hockenson", "score": "6.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" }
+          { "name": "Dallas Goedert", "score": "14.10" },
+          { "name": "Hunter Henry", "score": "11.20" },
+          { "name": "Kadarius Toney", "score": "10.90" }
         ]
       }
     }
