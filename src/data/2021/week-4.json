@@ -82,7 +82,7 @@
         "duds": [
           { "name": "Christian Kirk", "score": "1.00" },
           { "name": "Miles Sanders", "score": "6.20" },
-          { "name": "Cooper Kupp", "score": "8.90" }
+          { "name": "Keenan Allen", "score": "7.10" }
         ],
         "bench": [
           { "name": "Joe Burrow", "score": "29.80" },
@@ -124,7 +124,7 @@
         ],
         "studs": [
           { "name": "Saquon Barkley", "score": "27.10" },
-          { "name": "Mike Evans", "score": "11.00" },
+          { "name": "Jared Cook", "score": "16.00" },
           { "name": "Nick Chubb", "score": "11.00" }
         ],
         "duds": [
@@ -169,9 +169,9 @@
           "Hunter Renfrow continues his surprisingly strong campaign, finds the endzone"
         ],
         "studs": [
+          { "name": "Justin Herbert", "score": "29.50" },
           { "name": "Leonard Fournette", "score": "15.30" },
-          { "name": "A.J. Green", "score": "15.20" },
-          { "name": "Stefon Diggs", "score": "14.90" }
+          { "name": "A.J. Green", "score": "15.20" }
         ],
         "duds": [
           { "name": "Sony Michel", "score": "-0.90" },
@@ -190,6 +190,7 @@
           "Antonio Gibson continues to be involved in the passing game, gets 10 targets"
         ],
         "studs": [
+          { "name": "Austin Ekeler", "score": "28.00" },
           { "name": "Lamar Jackson", "score": "24.60" },
           { "name": "Antonio Gibson", "score": "14.50" }
         ],
@@ -213,9 +214,9 @@
           { "name": "Noah Fant", "score": "13.60" }
         ],
         "duds": [
+          { "name": "Mike Williams", "score": "1.60" },
           { "name": "D'Andre Swift", "score": "6.90" },
-          { "name": "Chris Godwin", "score": "7.00" },
-          { "name": "Brandin Cooks", "score": "7.20" }
+          { "name": "Chris Godwin", "score": "7.00" }
         ],
         "bench": [
           { "name": "Matt Ryan", "score": "39.85" },
@@ -257,9 +258,9 @@
           { "name": "Kareem Hunt", "score": "15.60" }
         ],
         "duds": [
+          { "name": "Bryan Edwards", "score": "0.90" },
           { "name": "Tyler Lockett", "score": "4.40" },
-          { "name": "K.J. Osborn", "score": "5.10" },
-          { "name": "TJ Hockenson", "score": "6.20" }
+          { "name": "K.J. Osborn", "score": "5.10" }
         ],
         "bench": [
           { "name": "Dallas Goedert", "score": "14.10" },
