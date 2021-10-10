@@ -5,7 +5,7 @@ import { navigate } from "gatsby";
 // @TODO: Come up w/ a homepage design that can include the scores.
 export default function HomePage() {
   React.useEffect(() => {
-    navigate("/2021/week-4/");
+    navigate("/2021/week-5/");
   }, []);
   return null;
 }

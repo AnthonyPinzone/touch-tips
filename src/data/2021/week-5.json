@@ -1,0 +1,292 @@
+{
+  "matchups": [
+    {
+      "team1": {
+        "id": "commish",
+        "keys": [
+          "Josh Allen gets in a shootout w/ Patrick Mahomes",
+          "Chuba Hubbard balls out in his final start",
+          "Damien Williams steps up in first start, scores 20+"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "luke",
+        "keys": [
+          "Dalvin Cook plays through the pain, torches the Lions",
+          "James Conner continues his touchdown streak",
+          "Tee Higgins goes for 75 yards and a score against the Pack"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "ron",
+        "keys": [
+          "CeeDee Lamb returns to form against a weak Giants secondary",
+          "Olamide Zaccheaus fills in nicely for Ridley and Gage in London",
+          "Both tight ends find the endzone for big days"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "alex",
+        "keys": [
+          "Patrick Mahomes goes toe to toe with Josh Allen on Sunday Night",
+          "AJ Brown returns in a big way, hits the century mark vs the Jags",
+          "Kareem Hunt continues a strong campaign, finds the endzone again"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "cliff",
+        "keys": [
+          "Jalen Hurts finds the endzone on the ground and in the air",
+          "Laviska Shenault finally gets going w/ Chark out for the year",
+          "Damien Harris finds the endzone against an anemic Texans defense"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "jim",
+        "keys": [
+          "Zeke and Swift combine for four touchdowns on the day",
+          "DeAndre Hopkins gets it right vs the 49ers struggling secondary",
+          "Mike Williams goes Beckham style on the Browns, scores twice"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "brandon",
+        "keys": [
+          "James Robinson stays hot vs a struggling Titans defense",
+          "Clyde Edwards-Helaire finds the endzone again in a shootout",
+          "Dalton Schultz continues his run of finding the endzone"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "vin",
+        "keys": [
+          "Tom Brady and Mike Evans go big against a struggling Dolphins defense",
+          "Saquon Barkley out-performs Zeke finding the endzone three times",
+          "Latavius Murray takes over the lead back role, hits the century mark"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "aj",
+        "keys": [
+          "Justin Jefferson stays hot against a bad Lions secondary",
+          "Khalif Raymond returns the favor, scores vs the Vikings",
+          "Derrick Henry rumbles and tumbles to the tune of 3 scores vs the Jags"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "chris",
+        "keys": [
+          "Tyreek Hill goes big against the Bills in prime time",
+          "JD McKissic continues to demand targets",
+          "Christian Kirk gets involved again, sees 8 targets"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "shane",
+        "keys": [
+          "Jakobi Meyers has his best game against a really bad Texans team",
+          "Travis Kelce bounces back from a down week",
+          "Mike Davis says hello to the endzone in London"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      },
+      "team2": {
+        "id": "steve",
+        "keys": [
+          "Davante Adams finds the endzone against the Bengals",
+          "Stefon Diggs goes tit for tat with Tyreek Hill in a shootout",
+          "Josh Jacobs finally gets some momentum going for the Raiders"
+        ],
+        "studs": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "duds": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ],
+        "bench": [
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" },
+          { "name": "player", "score": "0.00" }
+        ]
+      }
+    }
+  ]
+}
