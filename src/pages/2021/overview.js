@@ -135,8 +135,8 @@ export default function Overview2021({ location }) {
           </TableHeaderRow>
 
           {standings &&
-            standings.map(team => (
-              <TableRow key={team.name}>
+            standings.map((team, index) => (
+              <TableRow key={team.name} rowNumber={index}>
                 <TableColumn customStyle="mb-2 px-5 text-2xl w-full bg-green-600 md:mb-0 md:px-0 md:bg-transparent md:w-44">
                   {team.name}
                 </TableColumn>

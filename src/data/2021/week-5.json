@@ -9,19 +9,18 @@
           "Damien Williams steps up in first start, scores 20+"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Josh Allen", "score": "45.65" },
+          { "name": "Ja'Marr Chase", "score": "24.90" },
+          { "name": "DK Metcalf", "score": "24.30" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Marvin Jones Jr.", "score": "3.00" },
+          { "name": "DJ Moore", "score": "6.73" },
+          { "name": "Tyler Higbee", "score": "8.40" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Courtland Sutton", "score": "21.50" },
+          { "name": "Jevonte Williams", "score": "10.10" }
         ]
       },
       "team2": {
@@ -32,19 +31,19 @@
           "Tee Higgins goes for 75 yards and a score against the Pack"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Aaron Rodgers", "score": "27.20" },
+          { "name": "Dawson Knox", "score": "19.20" },
+          { "name": "Emmanuel Sanders", "score": "18.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Darnell Mooney", "score": "5.00" },
+          { "name": "Terry McLaurin", "score": "6.60" },
+          { "name": "Tee Higgins", "score": "7.70" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Chase Claypool", "score": "21.50" },
+          { "name": "Mecole Hardman", "score": "12.10" },
+          { "name": "Joe Mixon", "score": "10.00" }
         ]
       }
     },
@@ -57,19 +56,17 @@
           "Both tight ends find the endzone for big days"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Lamar Jackson", "score": "54.30" },
+          { "name": "Austin Ekeler", "score": "30.40" },
+          { "name": "Kyle Pitts", "score": "22.40" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Olamide Zaccheaus", "score": "3.63" },
+          { "name": "Henry Ruggs III", "score": "6.60" },
+          { "name": "Evan Engram", "score": "7.50" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Devonte Booker", "score": "19.30" }
         ]
       },
       "team2": {
@@ -80,19 +77,18 @@
           "Kareem Hunt continues a strong campaign, finds the endzone again"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Marquise Brown", "score": "29.00" },
+          { "name": "Patrick Mahomes", "score": "25.70" },
+          { "name": "Kareem Hunt", "score": "23.40" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "K.J. Osborn", "score": "2.90" },
+          { "name": "Bryan Edwards", "score": "3.20" },
+          { "name": "T.J. Hockenson", "score": "3.20" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Kadarius Toney", "score": "24.60" },
+          { "name": "Hunter Henry", "score": "16.50" }
         ]
       }
     },
@@ -105,20 +101,16 @@
           "Damien Harris finds the endzone against an anemic Texans defense"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Jalen Hurts", "score": "24.90" },
+          { "name": "Robert Woods", "score": "21.00" },
+          { "name": "Aaron Jones", "score": "12.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Cameron Brate", "score": "1.70" },
+          { "name": "Jaylen Waddle", "score": "4.30" },
+          { "name": "Laviska Shenault Jr.", "score": "6.30" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       },
       "team2": {
         "id": "jim",
@@ -128,19 +120,17 @@
           "Mike Williams goes Beckham style on the Browns, scores twice"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Mike Williams", "score": "32.50" },
+          { "name": "Dak Prescott", "score": "29.70" },
+          { "name": "Ezekiel Elliott", "score": "24.20" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Noah Fant", "score": "3.50" },
+          { "name": "Brandin Cooks", "score": "3.80" },
+          { "name": "Randall Cobb", "score": "4.00" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Michael Carter", "score": "13.30" }
         ]
       }
     },
@@ -153,20 +143,16 @@
           "Dalton Schultz continues his run of finding the endzone"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Alvin Kamara", "score": "27.67" },
+          { "name": "James Robinson", "score": "21.20" },
+          { "name": "Ryan Tannehill", "score": "17.95" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Clyde Edwards-Helaire", "score": "2.90" },
+          { "name": "Adam Thielen", "score": "5.00" },
+          { "name": "Darren Waller", "score": "6.50" }
         ],
-        "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
-        ]
+        "bench": []
       },
       "team2": {
         "id": "vin",
@@ -176,19 +162,17 @@
           "Latavius Murray takes over the lead back role, hits the century mark"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Tom Brady", "score": "51.85" },
+          { "name": "Antonio Brown", "score": "27.90" },
+          { "name": "Mike Evans", "score": "26.30" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "JuJu Smith-Schuster", "score": "0.60" },
+          { "name": "Saquon Barkley", "score": "0.90" },
+          { "name": "Cole Beasley", "score": "1.00" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Myles Gaskin", "score": "26.90" }
         ]
       }
     },
@@ -201,19 +185,17 @@
           "Derrick Henry rumbles and tumbles to the tune of 3 scores vs the Jags"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Derrick Henry", "score": "31.00" },
+          { "name": "Matthew Stafford", "score": "22.15" },
+          { "name": "Justin Jefferson", "score": "15.90" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Kalif Raymond", "score": "0.47" },
+          { "name": "Devin Singletary", "score": "2.80" },
+          { "name": "Chase Edmonds", "score": "2.90" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Rondale Moore", "score": "12.60" }
         ]
       },
       "team2": {
@@ -224,19 +206,17 @@
           "Christian Kirk gets involved again, sees 8 targets"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Cooper Kupp", "score": "13.10" },
+          { "name": "Russell Wilson", "score": "12.60" },
+          { "name": "Tyreek Hill", "score": "11.30" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Kenny Golladay", "score": "0.00" },
+          { "name": "J.D. McKissic", "score": "1.20" },
+          { "name": "Mike Gesicki", "score": "6.30" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Joe Burrow", "score": "25.15" }
         ]
       }
     },
@@ -249,19 +229,19 @@
           "Mike Davis says hello to the endzone in London"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Jonathan Taylor", "score": "30.40" },
+          { "name": "Kyler Murray", "score": "18.05" },
+          { "name": "Travis Kelce", "score": "14.70" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Tyler Boyd", "score": "4.40" },
+          { "name": "Melvin Gordon III", "score": "5.30" },
+          { "name": "Jakobi Meyers", "score": "7.60" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "AJ Dillon", "score": "15.90" },
+          { "name": "Deonte Harris", "score": "14.60" },
+          { "name": "Amon-Ra St. Brown", "score": "10.00" }
         ]
       },
       "team2": {
@@ -272,19 +252,18 @@
           "Josh Jacobs finally gets some momentum going for the Raiders"
         ],
         "studs": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Justin Herbert", "score": "54.80" },
+          { "name": "Mark Andrews", "score": "36.20" },
+          { "name": "Davante Adams", "score": "32.10" }
         ],
         "duds": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "AJ Green", "score": "1.80" },
+          { "name": "Sammy Watkins", "score": "4.50" },
+          { "name": "Stefon Diggs", "score": "7.90" }
         ],
         "bench": [
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" },
-          { "name": "player", "score": "0.00" }
+          { "name": "Tim Patrick", "score": "12.40" },
+          { "name": "Sony Michel", "score": "11.00" }
         ]
       }
     }

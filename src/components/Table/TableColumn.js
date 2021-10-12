@@ -21,7 +21,7 @@ export default function TableColumn({
           {mobileTitle}:
         </span>
       )}
-      <span>{children}</span>
+      <span className="inline-block leading-none">{children}</span>
     </li>
   );
 }

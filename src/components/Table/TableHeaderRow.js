@@ -7,6 +7,7 @@ export default function TableHeaderRow({ children, className }) {
         className ? className : ""
       }`}
     >
+      <li className="w-10"></li>
       {children}
     </ul>
   );
