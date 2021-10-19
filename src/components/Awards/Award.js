@@ -75,9 +75,9 @@ const MondayNightMiracleAward = ({ className, team }) => (
   />
 );
 
-const FlaminHotCheetohsAward = ({ className, team }) => (
+const FlaminHotCheetosAward = ({ className, team }) => (
   <Award
-    awardName="Flamin' Hot Cheetohs"
+    awardName="Flamin' Hot Cheetos"
     awardStyles={`bg-red-500 border-red-500 ${className}`}
     awardDescription="You've won 5 or more games in a row, grab a glass of water cuz you're on fire!!!"
     awardIcon={<GiFlamer />}
@@ -91,5 +91,5 @@ export {
   EfficientlyEfficientAward,
   TeamOfTheWeekAward,
   MondayNightMiracleAward,
-  FlaminHotCheetohsAward,
+  FlaminHotCheetosAward,
 };

@@ -6,7 +6,7 @@ import { ScoreSheet, ScoreCard } from "../../components/Scores/";
 import {
   Awards,
   YouBlewItAward,
-  FlaminHotCheetohsAward,
+  FlaminHotCheetosAward,
   TeamOfTheWeekAward,
 } from "../../components/Awards/";
 
@@ -20,7 +20,7 @@ export default function WeekFour2021({ location }) {
 
       <Awards>
         <TeamOfTheWeekAward team="Ezekiel 25-17" className="md:order-2" />
-        <FlaminHotCheetohsAward
+        <FlaminHotCheetosAward
           team="Feed Me Moore"
           className="md:mt-5 md:mb-5 md:order-1"
         />
