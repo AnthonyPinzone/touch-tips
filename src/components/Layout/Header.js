@@ -23,6 +23,10 @@ const matchupLinks = [
     label: "Week 5",
     link: "/2021/week-5/",
   },
+  {
+    label: "Week 6",
+    link: "/2021/week-6/",
+  },
 ];
 
 const Header = ({ location, weekNumber }) => {

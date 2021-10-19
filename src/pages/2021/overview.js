@@ -14,6 +14,7 @@ import {
   calculateAverage,
   calculatePercentage,
   calculateTotal,
+  calculateLastFour,
 } from "../../utilities/math-calculations";
 
 import data from "../../data/teams.json";
@@ -27,6 +28,7 @@ function fetchStandings() {
       record: team.seasons[2021].record,
       points: calculateTotal(team.seasons[2021].finalScores),
       ppg: calculateAverage(team.seasons[2021].finalScores),
+      last4: calculateLastFour(team.seasons[2021].finalScores),
       optimal: calculateTotal(team.seasons[2021].optimalScores),
       opg: calculateAverage(team.seasons[2021].optimalScores),
       efficiency: calculatePercentage(
@@ -57,6 +59,10 @@ export default function Overview2021({ location }) {
     } else if (sortCategory === "points") {
       sortedStandings = [...standings].sort((a, b) =>
         a.points < b.points ? 1 : -1
+      );
+    } else if (sortCategory === "last4") {
+      sortedStandings = [...standings].sort((a, b) =>
+        a.last4 < b.last4 ? 1 : -1
       );
     } else if (sortCategory === "optimal") {
       sortedStandings = [...standings].sort((a, b) =>
@@ -94,6 +100,7 @@ export default function Overview2021({ location }) {
           >
             <option value="">Record</option>
             <option value="points">Points</option>
+            <option value="last4">Last 4 Pts/Gm</option>
             <option value="optimal">Optimal</option>
             <option value="efficiency">Efficiency</option>
           </select>
@@ -118,6 +125,11 @@ export default function Overview2021({ location }) {
               title="Pts/Gm"
             />
             <TableHeaderColumn
+              onClick={() => sortStandings("last4")}
+              sorted={sortedBy === "last4"}
+              title="Last 4"
+            />
+            <TableHeaderColumn
               onClick={() => sortStandings("optimal")}
               sorted={sortedBy === "optimal"}
               title="Optimal"
@@ -137,15 +149,28 @@ export default function Overview2021({ location }) {
           {standings &&
             standings.map((team, index) => (
               <TableRow key={team.name} rowNumber={index}>
-                <TableColumn customStyle="mb-2 px-5 text-2xl w-full bg-green-600 md:mb-0 md:px-0 md:bg-transparent md:w-44">
+                <TableColumn customStyle="order-1 mb-2 px-5 text-2xl w-full bg-green-600 md:order-2 md:mb-0 md:px-0 md:bg-transparent md:w-44">
                   {team.name}
                 </TableColumn>
-                <TableColumn mobileTitle="Record">{team.record}</TableColumn>
-                <TableColumn mobileTitle="Points">{team.points}</TableColumn>
-                <TableColumn mobileTitle="Pts/Gm">{team.ppg}</TableColumn>
-                <TableColumn mobileTitle="Optimal">{team.optimal}</TableColumn>
-                <TableColumn mobileTitle="Opt/Gm">{team.opg}</TableColumn>
-                <TableColumn mobileTitle="Efficiency">
+                <TableColumn className="order-3" mobileTitle="Record">
+                  {team.record}
+                </TableColumn>
+                <TableColumn className="order-4" mobileTitle="Points">
+                  {team.points}
+                </TableColumn>
+                <TableColumn className="order-5" mobileTitle="Pts/Gm">
+                  {team.ppg}
+                </TableColumn>
+                <TableColumn className="order-6" mobileTitle="Last 4">
+                  {team.last4}
+                </TableColumn>
+                <TableColumn className="order-7" mobileTitle="Optimal">
+                  {team.optimal}
+                </TableColumn>
+                <TableColumn className="order-8" mobileTitle="Opt/Gm">
+                  {team.opg}
+                </TableColumn>
+                <TableColumn className="order-9" mobileTitle="Efficiency">
                   {team.efficiency}
                 </TableColumn>
               </TableRow>

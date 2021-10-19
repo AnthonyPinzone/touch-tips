@@ -1,5 +1,5 @@
 import React from "react";
-import { GiPodiumWinner, GiTightrope } from "react-icons/gi";
+import { GiPodiumWinner, GiTightrope, GiFlamer } from "react-icons/gi";
 import { FaPoop } from "react-icons/fa";
 import { BiTimer } from "react-icons/bi";
 
@@ -75,9 +75,21 @@ const MondayNightMiracleAward = ({ className, team }) => (
   />
 );
 
+const FlaminHotCheetohsAward = ({ className, team }) => (
+  <Award
+    awardName="Flamin' Hot Cheetohs"
+    awardStyles={`bg-red-500 border-red-500 ${className}`}
+    awardDescription="You've won 5 or more games in a row, grab a glass of water cuz you're on fire!!!"
+    awardIcon={<GiFlamer />}
+    awardIconStyles="text-red-600"
+    team={team}
+  />
+);
+
 export {
   YouBlewItAward,
   EfficientlyEfficientAward,
   TeamOfTheWeekAward,
   MondayNightMiracleAward,
+  FlaminHotCheetohsAward,
 };

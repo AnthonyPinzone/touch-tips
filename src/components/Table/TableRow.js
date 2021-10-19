@@ -7,7 +7,12 @@ export default function TableRow({ children, className, rowNumber }) {
         className ? className : ""
       }`}
     >
-      <li className="w-10 pr-5 text-right">{rowNumber + 1}</li>
+      <li className="order-2 md:order-1 md:w-10 px-5 md:pl-0 md:text-right">
+        <span className="inline-block mr-2 w-16 text-gray-200 md:hidden">
+          Rank:
+        </span>
+        {rowNumber + 1}
+      </li>
       {children}
     </ol>
   );
