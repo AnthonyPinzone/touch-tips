@@ -39,7 +39,8 @@ function fetchStandings() {
   );
 
   return standings.sort(
-    (a, b) => b.record.localeCompare(a.record) || a.points < b.points
+    (a, b) =>
+      b.record.localeCompare(a.record) || Number(a.points) < Number(b.points)
   );
 }
 
@@ -58,19 +59,21 @@ export default function Overview2021({ location }) {
       );
     } else if (sortCategory === "points") {
       sortedStandings = [...standings].sort((a, b) =>
-        a.points < b.points ? 1 : -1
+        Number(a.points) < Number(b.points) ? 1 : -1
       );
     } else if (sortCategory === "last4") {
       sortedStandings = [...standings].sort((a, b) =>
-        a.last4 < b.last4 ? 1 : -1
+        Number(a.last4) < Number(b.last4) ? 1 : -1
       );
     } else if (sortCategory === "optimal") {
       sortedStandings = [...standings].sort((a, b) =>
-        a.optimal < b.optimal ? 1 : -1
+        Number(a.optimal) < Number(b.optimal) ? 1 : -1
       );
     } else {
       sortedStandings = [...standings].sort(
-        (a, b) => b.record.localeCompare(a.record) || a.points < b.points
+        (a, b) =>
+          b.record.localeCompare(a.record) ||
+          Number(a.points) < Number(b.points)
       );
     }
     setSortedBy(sortCategory);
