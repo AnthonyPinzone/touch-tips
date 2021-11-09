@@ -1,5 +1,10 @@
 import React from "react";
-import { GiPodiumWinner, GiTightrope, GiFlamer } from "react-icons/gi";
+import {
+  GiPodiumWinner,
+  GiTightrope,
+  GiFlamer,
+  GiClover,
+} from "react-icons/gi";
 import { FaPoop } from "react-icons/fa";
 import { BiTimer } from "react-icons/bi";
 
@@ -86,10 +91,22 @@ const FlaminHotCheetosAward = ({ className, team }) => (
   />
 );
 
+const ByTheSkinOfYourTeethAward = ({ className, team }) => (
+  <Award
+    awardName="By the Skin of Your Teeth"
+    awardStyles={`bg-green-500 border-green-500 ${className}`}
+    awardDescription="You held onto a small lead on Monday Night to come away with the victory!"
+    awardIcon={<GiClover />}
+    awardIconStyles="text-green-600"
+    team={team}
+  />
+);
+
 export {
   YouBlewItAward,
   EfficientlyEfficientAward,
   TeamOfTheWeekAward,
   MondayNightMiracleAward,
   FlaminHotCheetosAward,
+  ByTheSkinOfYourTeethAward,
 };
