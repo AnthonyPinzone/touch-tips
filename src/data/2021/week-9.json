@@ -1,0 +1,212 @@
+{
+  "matchups": [
+    {
+      "team1": {
+        "id": "commish",
+        "keys": [],
+        "studs": [
+          { "name": "Najee Harris", "score": "15.30" },
+          { "name": "Javonte Williams", "score": "11.10" }
+        ],
+        "duds": [
+          { "name": "Courtland Sutton", "score": "3.40" },
+          { "name": "Marvin Jones Jr.", "score": "3.60" },
+          { "name": "Josh Allen", "score": "12.20" }
+        ],
+        "bench": [
+          { "name": "Ty Johnson", "score": "11.10" }
+        ]
+      },
+      "team2": {
+        "id": "chris",
+        "keys": [],
+        "studs": [
+          { "name": "Keenan Allen", "score": "16.40" },
+          { "name": "Cooper Kupp", "score": "15.00" },
+          { "name": "Christian Kirk", "score": "13.75" }
+        ],
+        "duds": [
+          { "name": "Nelson Agholor", "score": "0.00" },
+          { "name": "Khalil Herbert", "score": "1.30" },
+          { "name": "D'Ernest Johnson", "score": "1.60" }
+        ],
+        "bench": []
+      }
+    },
+    {
+      "team1": {
+        "id": "ron",
+        "keys": [],
+        "studs": [
+          { "name": "Lamar Jackson", "score": "39.30" },
+          { "name": "Devontae Booker", "score": "13.70" }
+        ],
+        "duds": [
+          { "name": "Robbie Anderson", "score": "0.70" },
+          { "name": "Jarvis Landry", "score": "2.60" },
+          { "name": "CeeDee Lamb", "score": "3.30" }
+        ],
+        "bench": [
+          { "name": "Evan Engram", "score": "11.30" }
+        ]
+      },
+      "team2": {
+        "id": "shane",
+        "keys": [],
+        "studs": [
+          { "name": "Jonathan Taylor", "score": "33.00" },
+          { "name": "Melvin Gordon III", "score": "16.50" },
+          { "name": "Travis Kelce", "score": "15.30" }
+        ],
+        "duds": [
+          { "name": "Jakobi Meyers", "score": "1.53" },
+          { "name": "Tyler Boyd", "score": "1.60" },
+          { "name": "Mecole Hardman", "score": "4.00" }
+        ],
+        "bench": [
+          { "name": "Darnell Mooney", "score": "19.10" },
+          { "name": "Deonte Harris", "score": "11.57" },
+          { "name": "AJ Dillon", "score": "11.00" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "cliff",
+        "keys": [],
+        "studs": [
+          { "name": "Justin Herbert", "score": "39.20" },
+          { "name": "George Kittle", "score": "17.10" },
+          { "name": "Robert Woods", "score": "13.90" }
+        ],
+        "duds": [
+          { "name": "Aaron Jones", "score": "5.30" },
+          { "name": "Jamison Crowder", "score": "6.30" },
+          { "name": "Damien Harris", "score": "9.80" }
+        ],
+        "bench": [
+          { "name": "Donovan Peoples-Jones", "score": "15.60" }
+        ]
+      },
+      "team2": {
+        "id": "aj",
+        "keys": [],
+        "studs": [
+          { "name": "Elijah Moore", "score": "23.90" },
+          { "name": "Cordarrelle Patterson", "score": "18.77" },
+          { "name": "Justin Jefferson", "score": "15.50" }
+        ],
+        "duds": [
+          { "name": "Rashad Higgins", "score": "0.00" },
+          { "name": "Chase Edmonds", "score": "0.30" },
+          { "name": "Rondale Moore", "score": "5.80" }
+        ],
+        "bench": [
+          { "name": "Olamide Zaccheaus", "score": "19.30" }
+        ]
+      }
+    },
+    {
+      "team1": {
+        "id": "jim",
+        "keys": [],
+        "studs": [
+          { "name": "Dak Prescott", "score": "25.20" },
+          { "name": "Ezekiel Elliott", "score": "11.10" }
+        ],
+        "duds": [
+          { "name": "Cedrick Wilson", "score": "3.80" },
+          { "name": "Zach Ertz", "score": "4.20" },
+          { "name": "Mike Williams", "score": "6.80" }
+        ],
+        "bench": [
+          { "name": "Matt Ryan", "score": "35.95" }
+        ]
+      },
+      "team2": {
+        "id": "brandon",
+        "keys": [],
+        "studs": [
+          { "name": "Carson Wentz", "score": "32.90" },
+          { "name": "Devonta Smith", "score": "20.10" },
+          { "name": "Alvin Kamara", "score": "18.40" }
+        ],
+        "duds": [
+          { "name": "Salvon Ahmed", "score": "0.60" },
+          { "name": "Jeremy McNichols", "score": "5.00" },
+          { "name": "Dalton Schultz", "score": "7.40" }
+        ],
+        "bench": [
+          { "name": "Nyheim Hines", "score": "19.63" }
+        ]
+      }
+    },
+      {
+      "team1": {
+        "id": "alex",
+        "keys": [],
+        "studs": [
+          { "name": "Marquise Brown", "score": "16.10" }
+        ],
+        "duds": [
+          { "name": "Kadarius Toney", "score": "1.20" },
+          { "name": "Zach Moss", "score": "3.40" },
+          { "name": "David Johnson", "score": "5.50" }
+        ],
+        "bench": [
+          { "name": "Kenyan Drake", "score": "13.00" },
+          { "name": "Christian McCaffrey", "score": "12.60" }
+        ]
+      },
+      "team2": {
+        "id": "luke",
+        "keys": [],
+        "studs": [
+          { "name": "Joe Mixon", "score": "25.50" },
+          { "name": "Michael Pittman Jr.", "score": "14.90" },
+          { "name": "Dalvin Cook", "score": "13.70" }
+        ],
+        "duds": [
+          { "name": "Albert Okwuegbunam", "score": "4.50" },
+          { "name": "Chase Claypool", "score": "5.80" },
+          { "name": "Darrell Henderson Jr.", "score": "7.30" }
+        ],
+        "bench": []
+      }
+    },
+    {
+      "team1": {
+        "id": "vin",
+        "keys": [],
+        "studs": [
+          { "name": "James Conner", "score": "37.80" },
+          { "name": "Nick Chubb", "score": "29.30" },
+          { "name": "Pat Freiermuth", "score": "18.80" }
+        ],
+        "duds": [
+          { "name": "Cole Beasley", "score": "7.30" },
+          { "name": "Rashod Bateman", "score": "7.70" }
+        ],
+        "bench": []
+      },
+      "team2": {
+        "id": "steve",
+        "keys": [],
+        "studs": [
+          { "name": "Jalen Hurts", "score": "20.30" },
+          { "name": "Hunter Renfrow", "score": "14.57" },
+          { "name": "Stefon Diggs", "score": "11.50" }
+        ],
+        "duds": [
+          { "name": "Boston Scott", "score": "4.00" },
+          { "name": "Jamal Agnew", "score": "5.77" },
+          { "name": "Mark Andrews", "score": "6.90" }
+        ],
+        "bench": [
+          { "name": "Tim Patrick", "score": "16.50" },
+          { "name": "Devonta Freeman", "score": "15.30" }
+        ]
+      }
+    }
+  ]
+}
